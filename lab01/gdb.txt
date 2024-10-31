@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. Use 'set args' followed by arglist
+2. Use 'break' command follow by either line number of function name.
+3. Use 'step' command or 's' for skip into; use 'next' or 'n' for skip over
+4. Use 's' to debug inside a called function.
+5. Use 'c' for continue.
+6. Use 'p' to display value or expression
+7. Use 'display' command followed by the name of interested variable.
+8. Use 'info locals'
+9. Use 'quit' or 'q'.
